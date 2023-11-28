@@ -8,7 +8,7 @@ When added to a Vertical Section it can be used as a Contents table for the page
 
 ![Page Navigator](./assets/PageNavigator.gif)
 
-| This is a fork from <https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-page-navigator> modified to use a newer version of SPFx (1.17.4). |
+|This is a fork from <https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-page-navigator> modified to use a newer version of SPFx (1.17.4).   |
 
 ## Compatibility
 
@@ -43,7 +43,7 @@ Version|Date|Comments
 
 ## Minimal Path to Awesome
 
-* Clone this repository (or [download this solution as a .ZIP file](https://pnp.github.io/download-partial/?url=https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-page-navigator) then unzip it)
+* Clone this repository
 * From your command line, change your current directory to the directory containing this sample (`react-page-navigator`, located under `samples`)
 * in the command line run:
   * `npm i`
