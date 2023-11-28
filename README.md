@@ -8,6 +8,8 @@ When added to a Vertical Section it can be used as a Contents table for the page
 
 ![Page Navigator](./assets/PageNavigator.gif)
 
+| This is a fork from <https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-page-navigator> modified to use a newer version of SPFx (1.17.4). |
+
 ## Compatibility
 
 | :warning: Important          |
@@ -45,8 +47,7 @@ Version|Date|Comments
 * From your command line, change your current directory to the directory containing this sample (`react-page-navigator`, located under `samples`)
 * in the command line run:
   * `npm i`
-  * `gulp bundle --ship`
-  * `gulp package-solution --ship`
+  * `npm run package`
 * Add the app package to Site Collection App Catalog and Install the App
 * Add the web part to a page in the Site Collection
 
