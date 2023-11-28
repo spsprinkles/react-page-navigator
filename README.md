@@ -8,7 +8,8 @@ When added to a Vertical Section it can be used as a Contents table for the page
 
 ![Page Navigator](./assets/PageNavigator.gif)
 
-|This is a fork from <https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-page-navigator> modified to use a newer version of SPFx (1.17.4).   |
+> [!NOTE]  
+> This is a fork from <https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-page-navigator> modified to use a newer version of SPFx (1.17.4).
 
 ## Compatibility
 
