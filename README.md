@@ -45,8 +45,8 @@ Version|Date|Comments
 ## Minimal Path to Awesome
 
 * Clone this repository
-* From your command line, change your current directory to the directory containing this sample (`react-page-navigator`, located under `samples`)
-* in the command line run:
+* From your command line, change your current directory to the directory containing this sample (`react-page-navigator`)
+* In the command line run:
   * `npm i`
   * `npm run package`
 * Add the app package to Site Collection App Catalog and Install the App
