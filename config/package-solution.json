@@ -17,10 +17,10 @@
     "iconPath": "images/AppIcon.png",
     "metadata": {
       "shortDescription": {
-        "default": "navigator description"
+        "default": "This web part fetches all the automatically added Header anchor tags in a SharePoint page and displays them in a Navigation component. When added to a Vertical Section, it can be used as a table of contents for the page."
       },
       "longDescription": {
-        "default": "navigator description"
+        "default": "This web part fetches all the automatically added Header anchor tags in a SharePoint page and displays them in a Navigation component. When added to a Vertical Section, it can be used as a table of contents for the page."
       },
       "screenshotPaths": [],
       "videoUrl": "",

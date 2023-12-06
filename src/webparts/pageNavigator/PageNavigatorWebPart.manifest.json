@@ -19,7 +19,7 @@
     "groupId": "5c03119e-3074-46fd-976b-c60198311f70", // Advanced
     "group": { "default": "Advanced" },
     "title": { "default": "PageNavigator" },
-    "description": { "default": "PageNavigator description" },
+    "description": { "default": "This web part fetches all the automatically added Header anchor tags in a SharePoint page and displays them in a Navigation component. When added to a Vertical Section, it can be used as a table of contents for the page." },
     "officeFabricIconFontName": "BulletedTreeList",
     "properties": { }
   }]
